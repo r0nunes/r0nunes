@@ -1,5 +1,5 @@
 ### Renato de Oliveira Nunes
-  [![Linkedin Badge](https://img.shields.io/badge/-Renato_O._Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-o-nunes-a90b263b///)](https://www.linkedin.com/in/renato-o-nunes-a90b263b/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Renato_O._Nunes-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/renato-o-nunes-a90b263b///)](https://www.linkedin.com/in/renato-o-nunes-a90b263b/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
